@@ -12,7 +12,7 @@ My utility belt:
 - 🔭 I’m currently working on getting better and better at developing fully functional web pages from scratch/design.
 - 👯 I’m looking to collaborate on Open Source projects and Open Data providers. If you want to display Data in a simple and understandable way, count me in.
 - ⚡  Links:
-    #### Phogoraphy Portfolio: https://www.behance.net/gallery/56685529/Portfolio
+    #### Photography Portfolio: https://www.behance.net/gallery/56685529/Portfolio
     #### Instagram: https://www.instagram.com/_pareaa/
     #### Linkedin: https://www.linkedin.com/in/phrcorreia/
  <br />
