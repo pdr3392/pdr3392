@@ -1,7 +1,7 @@
 ### <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Hey, you!
 
 
-Technology has been following me without rest for a while now. I've been studying about Hardware I.T since 8-9yo, did some courses as a teenager, worked a little here and there, developed some bot applications for Tibia (a MMORPG) as a 16yo curious, but the real kick only came after Journalism college. I was/am working with finances and, somehow, I found a Dutch guy with a trading robot that needed some attention and that drove me back to developing. Since then, I can't help the feeling of building something, or testing something, or researching about something that cares about technology, development and the future of things — which we are certainly building.
+Technology has been following me without rest for a while now. I've been studying about Hardware I.T since 8-9yo, did some courses as a teenager, worked a little here and there, developed some bot applications for Tibia (a MMORPG) as a 16yo curious using PHP, but the real kick only came after Journalism college. I was/am working with finances and, somehow, I found a Dutch guy with a trading robot that needed some attention and that drove me back to developing. Since then, I can't help the feeling of building something, or testing something, or researching about something that cares about technology, development and the future of things — which we are certainly building.
 
 My utility belt:
     - Python
